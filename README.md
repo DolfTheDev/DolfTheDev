@@ -6,14 +6,7 @@
 ### <div align="center">I'm Dolf, a full-time full-stack freelance developer 👨‍💻 working remotely since 2017 🚀</div>  
   
 
-- 🔭 I’m currently working on [Assen Roleplay](https://github.com/DolfTheDev/AssenRoleplay)  
-  
-
-- 🌱 I’m currently learning Lua  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+ 
 
 - ⚡ Fun fact: I use alt tab every 5 seconds  
   
